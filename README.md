@@ -1,4 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Clever Programmer ReactJS Portfolio     
 
 ![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true "ReactJS Resume Website Template")
 
