@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Yuki Ishibashi",
+    "occupation": "Aspiring Full Stack Developer",
+    "description": "Looking to help companies build amazing User Experiences",
+    "image": "Yuki.jpg",
+    "bio": "My name is Yuki, I'm a Full Stack ReactJS Developer. I love turning ideas into something that people can use. I care about good communication and proper development procedure.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "byuki0205@gmail.com",
+    "phone": "+1 800 Y DUMA",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Tokyo",
+      "state": "CA",
+      "zip": "90035"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nazariy1995",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nazdumanskyy/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Yuki-Pamela",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Harvard University (online)",
+        "degree": "CS50 Course",
+        "graduated": "December 2020"
+      }
+    ],
+    "work": [
+      {
+        "title": "JavaScript/Python Application Developer",
+        "years": "May 2019 - Present",
+        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "ReactJS Amazon Clone",
+        "image": "amazon.png",
+        "url": "https://yuki-amazon-clone.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
